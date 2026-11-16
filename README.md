@@ -55,7 +55,7 @@ La síntesis de la literatura y parte del contenido de la presentación se elabo
 
 ## Cómo citar
 
-Monge, R. (2026). *Optimización y uso ético de la IA generativa en la investigación educativa* [Materiales de taller]. GitHub. https://github.com/ricardomonge/Taller_IA_investigacion_educativa
+Monge, R. (2026). *Optimización y uso ético de la IA generativa en la investigación educativa* (Versión 1.0) [Materiales de taller]. Zenodo. https://doi.org/10.5281/zenodo.24294336
 
 ## Contacto
 
