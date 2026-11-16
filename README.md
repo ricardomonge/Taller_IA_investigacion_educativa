@@ -1,6 +1,7 @@
 # Taller de Optimización y uso ético de la IA generativa en la investigación educativa
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24294336.svg)](https://doi.org/10.5281/zenodo.24294336)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ricardomonge/Taller_IA_investigacion_educativa/blob/main/Respondedor_preguntas_IA_investigacion_v2.ipynb)
 
 Materiales del teletaller dictado por el Dr. Ricardo Monge (rmonge@udla.cl).
 
@@ -17,8 +18,6 @@ El taller tiene dos partes. La primera revisa qué dice la literatura reciente s
 | [`sintesis_literatura_IA_2026_10_27.docx`](sintesis_literatura_IA_2026_10_27.docx) | Síntesis generada por el cuaderno: diez preguntas con sus respuestas y referencias. |
 
 ## Qué hace el cuaderno
-
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ricardomonge/Taller_IA_investigacion_educativa/blob/main/Respondedor_preguntas_IA_investigacion_v2.ipynb)
 
 1. Carga las exportaciones de Web of Science y elimina duplicados y registros sin resumen.
 2. Convierte cada artículo (título y resumen) en un vector para buscar por significado.
