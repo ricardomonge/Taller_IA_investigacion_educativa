@@ -8,6 +8,10 @@ Materiales del teletaller dictado por el Dr. Ricardo Monge (rmonge@udla.cl).
 
 El taller tiene dos partes. La primera revisa qué dice la literatura reciente sobre el uso de la IA generativa en el proceso de investigación. La segunda muestra, en Google Colab, cómo construir un sistema RAG (generación aumentada por recuperación) que responde preguntas a partir de artículos exportados de Web of Science, con citas trazables y validación humana. La ética es el eje transversal: protección de datos, sesgos, alucinaciones y supervisión humana en cada etapa.
 
+## Presentación del Taller
+
+[![Presentación del Taller](https://img.youtube.com/vi/90Vmr2QJ2Zw/maxresdefault.jpg)](https://youtu.be/90Vmr2QJ2Zw?si=hUN05YGVMvdG-_UN)
+
 ## Contenido del repositorio
 
 | Archivo | Descripción |
