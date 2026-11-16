@@ -2,6 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24294336.svg)](https://doi.org/10.5281/zenodo.24294336)
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ricardomonge/Taller_IA_investigacion_educativa/blob/main/Respondedor_preguntas_IA_investigacion_v2.ipynb)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 Materiales del teletaller dictado por el Dr. Ricardo Monge (rmonge@udla.cl).
 
